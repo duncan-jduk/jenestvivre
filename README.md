@@ -1,7 +1,7 @@
 # Genevive
 
-https://clearleft.com/thinking/some-of-the-best-free-fonts
-https://icons.run/
+- https://clearleft.com/thinking/some-of-the-best-free-fonts
+- https://icons.run/
 
 
 ---
