@@ -1,16 +1,8 @@
 /* INSERT MARKDOWN POST AS STRING HERE */
 export const post = `
-## Sample Post! 
+## They do though, don't they?
 
-### This is a paragraph title
-This is a paragraph. This is a **bold statement**. 
+### and yet there's so much more to do
+Vision has so many trinkets, Ai is the biggest brush for brushing, computers keep getting faster, there was a realtime barrier before computers could easily process realtime data at 60fps and we crossed it doing backflips.
 
-<div>You can insert HTML as per normal</div>
-
-<table style="border: 3px solid red">
-    <tr>
-        <td style="border: 3px solid black">You can also insert table HTML</td>
-        <td>like this</td>
-    </tr>
-</table>
-`
+<i>Now we just live in a greenscreen world</i> and somethings gotta give.
